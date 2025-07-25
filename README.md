@@ -12,4 +12,4 @@ well hear me out.
    ```
    and check the version for make sure they already exist. if can't, try to restart your powershell or restart your vscode
 
-### still continue. i'm just need rest, im tired as hell :)
+### still continue. i'm just need rest, i'm tired as hell :)
