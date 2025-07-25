@@ -1,3 +1,13 @@
-
-<h1>maintenance :)</h1>
-<img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "50%">
+### So, how to use this?
+well hear me out.
+1. you need node and npm
+   if you already install it, just open your powershell and check the version
+   ```
+   npm -v
+   node -v
+   ```
+   if you haven't install it yet, you can install it on
+   ```
+   https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+   ```
+   and check the version for make sure they already exist. if can't, try to restart your powershell or restart your vscode
