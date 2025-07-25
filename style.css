@@ -1,0 +1,133 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #36393f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+}
+
+.discord-app {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 72px;
+    background: #202225;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 16px;
+}
+
+.server {
+    width: 48px;
+    height: 48px;
+    background: #5865f2;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.server:hover {
+    background: #4752c4;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: #36393f;
+}
+
+.channel-header {
+    background: #2f3136;
+    color: #fff;
+    padding: 16px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #23272a;
+}
+
+.messages {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.message {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.avatar {
+    width: 36px;
+    height: 36px;
+    background: #5865f2;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.msg-content {
+    background: #40444b;
+    color: #dcddde;
+    padding: 10px 16px;
+    border-radius: 8px;
+    max-width: 70vw;
+    word-break: break-word;
+    font-size: 1em;
+}
+
+.username {
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.98em;
+    margin-bottom: 2px;
+}
+
+.message-input {
+    display: flex;
+    padding: 16px;
+    background: #40444b;
+    border-top: 1px solid #23272a;
+}
+
+.message-input input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    background: #2f3136;
+    color: #fff;
+    outline: none;
+}
+
+.message-input button {
+    background: #5865f2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0 18px;
+    margin-left: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.message-input button:hover {
+    background: #4752c4;
+}
