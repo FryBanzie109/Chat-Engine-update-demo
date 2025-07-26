@@ -1,6 +1,6 @@
 ### So, how to use this?
 well... hear me out.
-<h3>1. you need node and npm
+<h4>1. you need node and npm</h4>
 
    if you already install it, just open your powershell and check the version
    ```
