@@ -9,7 +9,7 @@ well... hear me out.
    node -v
    ```
 
-   if you haven't install it yet, you can install it on
+   if you haven't install it yet, you can install it on:
 
    https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
