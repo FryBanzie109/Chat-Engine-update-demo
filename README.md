@@ -13,6 +13,8 @@ well... hear me out.
 
    https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
-   and check the version for make sure they already exist. if can't, try to restart your powershell or restart your vscode
+   and check the version for make sure they already exist. if can't, try to restart your powershell or restart your vscode and ten check the version
+
+   
 
 ### still continue. i'm just need rest, i'm tired as hell :)
