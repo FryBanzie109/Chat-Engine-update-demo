@@ -18,3 +18,5 @@ well... hear me out.
    
 
 ### still continue. i'm just need rest, i'm tired as hell :)
+
+DM me on Discord: ```fryb``` for any shit u wanna talk about this stupid project that i forgot. i'll remember it m.a.y.b.e.
